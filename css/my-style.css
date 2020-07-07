@@ -1,0 +1,10 @@
+.my-meta-link:hover + .my-meta-menu, .my-meta-menu:hover {
+    display: block;
+}
+
+.my-meta-menu {
+    position: absolute;
+    display: none;
+    z-index: 3000;
+    width: 100%;
+}
